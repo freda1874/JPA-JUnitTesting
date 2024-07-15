@@ -1,0 +1,9 @@
+acmecollege\entity\TestCRUDClubMembership.class
+acmecollege\entity\TestCRUDStudent.class
+acmecollege\entity\TestCRUDAcademicStudentClub.class
+acmecollege\entity\TestCRUDCourse.class
+acmecollege\entity\TestCRUDMembershipCard.class
+acmecollege\entity\TestCRUDPeerTutor.class
+acmecollege\entity\TestCRUDPeerTutorRegistrationOriginal.class
+acmecollege\entity\TestCRUDNonAcademicStudentClub.class
+common\JUnitBase.class
